@@ -7,7 +7,7 @@ HTML, CSS
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/oballi/css-workspace/blob/master/facebook-login-page/images/facebook-login-page.jpg?raw=true))
 
 
 ## 🔗 Links
