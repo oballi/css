@@ -7,7 +7,7 @@ HTML, CSS
 ## 📉 Demo
 https://facebook-login-page-osso.netlify.app/
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/oballi/css-workspace/master/facebook-login-page/images/facebook-login-page.jpg)
 
