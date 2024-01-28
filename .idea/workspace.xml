@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cc739b-14b1-46ce-9a9a-56eba73a7752" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/facebook-login-page/Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="54cc739b-14b1-46ce-9a9a-56eba73a7752" name="Changes" comment="Readme.md dosyası düzenlendi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +53,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706446300551</updated>
-      <workItem from="1706446301560" duration="12524000" />
+      <workItem from="1706446301560" duration="13136000" />
     </task>
+    <task id="LOCAL-00001" summary="Readme.md dosyası düzenlendi">
+      <option name="closed" value="true" />
+      <created>1706466630268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706466630268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme.md dosyası düzenlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md dosyası düzenlendi" />
   </component>
 </project>
