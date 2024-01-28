@@ -1,0 +1,201 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    top: 0;
+    font-family: 'SF Pro Display', sans-serif;
+    outline: none;
+}
+
+
+.container {
+    background-color: #F0F2F5;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-content p {
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: normal;
+    width: 500px;
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px
+}
+
+input {
+    width: 364px;
+    height: 46px;
+    border-radius: 6px;
+    font-size: 17px;
+    padding-left: 16px;
+    border: 1px solid #DDDFE2;
+
+}
+
+input:focus {
+    border: 1px solid #1b74e4;
+    box-shadow: 0 0 0 2px #e7f3ff;
+
+}
+
+input::placeholder {
+    opacity: 0.7;
+}
+
+input:focus::-webkit-input-placeholder {
+    opacity: 0.5;
+}
+
+.login {
+    height: 44px;
+    border-radius: 6px;
+    border: 0 solid;
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+}
+
+.right-content a {
+    text-align: center;
+    text-decoration: none;
+    color: #1877f2;
+    opacity: 0.8;
+    font-size: 14px;
+}
+
+.cizgi {
+    margin-top: 10px;
+    width: auto;
+    height: 1px;
+    background: gray;
+    opacity: 0.4;
+}
+
+.create-new-account {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 44px;
+    border: 0 solid;
+    border-radius: 6px;
+    line-height: 48px;
+    font-size: 17px;
+    background-color: #42b72a;
+    color: white;
+    margin: 10px 10px;
+}
+
+.pageCreate {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pageCreate-pointer {
+    cursor: pointer;
+}
+
+.pageCreate-pointer:hover {
+    border-bottom: 1px solid black;
+}
+
+.test {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+
+}
+
+.language ul {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    margin-top: 24px;
+    opacity: 0.7;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.language ul li:hover {
+    border-bottom: 1px solid black;
+}
+
+.language ul li:last-child:hover {
+    border-bottom: none;
+}
+
+.footer .language a {
+    display: flex;
+    width: 30px;
+    height: 20px;
+    background-color: #EBEDF0;
+    border: 1px solid #ccd0d5;
+    border-radius: 1px;
+    justify-content: center;
+}
+
+.footer .language a span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.footer .other-links {
+    color: #8a8d91;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.footer .other-links ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    flex-wrap: wrap;
+    color: #8a8d91;
+    font-size: 12px;
+    gap: 10px;
+}
+
+.footer .other-links ul li {
+    letter-spacing: 0.5px;
+}
+
+
+@media screen and (max-width: 900px) {
+    .container {
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .left-content {
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
+
+
+
