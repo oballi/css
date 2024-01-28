@@ -4,7 +4,8 @@
 ## 🛠 Technology
 HTML, CSS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5512d025-28ae-42bc-8242-179d3400d282/deploy-status)](https://app.netlify.com/sites/facebook-login-page-osso/deploys)
+## 📉 Demo
+https://facebook-login-page-osso.netlify.app/
 
 ## Screenshots
 
